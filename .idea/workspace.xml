@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58efe2a-a7eb-45cd-a666-deafc509c5e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bai 3/bài 1 phần 2 tạo form đăng ký học viên.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai 3/bài 1 phần 2 tạo form đăng ký học viên.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai 3/bài 1 tạo form đơn giản.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai 3/bài 1 tạo form đơn giản.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai 3/tao bang nang cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai 3/tao bang nang cao.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,7 +41,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Nam HTML/thainam.css&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Nam HTML/Part 1/Style.css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,7 +66,9 @@
       <workItem from="1669856518436" duration="3683000" />
       <workItem from="1669860705488" duration="12654000" />
       <workItem from="1669889167312" duration="1208000" />
-      <workItem from="1669893622952" duration="1638000" />
+      <workItem from="1669893622952" duration="1902000" />
+      <workItem from="1669943341430" duration="11359000" />
+      <workItem from="1669955475999" duration="2013000" />
     </task>
     <servers />
   </component>
